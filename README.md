@@ -1,7 +1,7 @@
 Home Price Forecasting Using Facebook’s Prophet
 =====================================
 
-This project uses Facebook’s Prophet to create a benchmark model of home prices for use in evaluating performance of other home price models. I chose Prophet to test the package’s functionality and performance. I’m using data from the S&P CoreLogic Case-Shiller Seattle Home Price NSA Index. Note:This project forecasts price trends in a residential real estate market, not individual home prices.
+This project uses Facebook’s Prophet to create a benchmark model of home prices for use in evaluating performance of other home price models. I chose Prophet to test the package’s functionality and performance. I’m using data from the S&P CoreLogic Case-Shiller Seattle Home Price NSA Index. Note: This project forecasts price trends in a residential real estate market, not individual home prices.
 
 Real Estate Data Considerations
 ---------------------------------------
